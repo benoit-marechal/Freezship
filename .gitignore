@@ -3,3 +3,21 @@ graphify-out/
 ._*
 .Spotlight-V100
 .Trashes
+
+# Caches Windows et réglages personnels de Visual Studio
+Thumbs.db
+*.user
+*.opt
+*.ncb
+*.suo
+*.aps
+
+# Intermédiaires de compilation et journaux
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+*.plg
+*.log
+BuildLog.htm
